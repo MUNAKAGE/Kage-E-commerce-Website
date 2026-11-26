@@ -6,7 +6,7 @@ function AriaPhone() {
 
                 <div>
                      <p className="bg-green-400 w-14 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Phone Images/Phone.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Phone Images/Phone.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -52,7 +52,7 @@ function AriaPhone() {
                     </span>
                     <p className="text-white mb-4">The Kage Aria 5G is fast, sleek, and smooth to use. The display looks great, the connection is reliable, and the quick delivery made the whole experience even better. Really happy with my purchase!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 4.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 4.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Jack Walcott</p>
                         <p className="text-gray-400">Luton, England</p>
@@ -72,7 +72,7 @@ function AriaPhone() {
                     </span>
                     <p className="text-white mb-4">I’m really impressed with the Kage Aria 5G. It feels smooth and responsive, the design looks premium, and the battery easily keeps up with my daily use. Delivery was quick and everything arrived in perfect condition.</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 7.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 7.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Kingsley Okonkwo</p>
@@ -93,7 +93,7 @@ function AriaPhone() {
                     <span className="flex flex-row gap-19">
                       
                       <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Elera Max Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Elera Max Phone.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
                     <p className="font-bold relative bottom-6 text-center">Kage Elera Max</p>
@@ -110,7 +110,7 @@ function AriaPhone() {
                 </span>
               
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Mira X Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Mira X Phone.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Mira X</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">

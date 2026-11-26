@@ -18,7 +18,7 @@ const [favorites, setFavorites] = useState({});
 
                 <div>
                     
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Phone Images/Zenra Ultra Phone.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Phone Images/Zenra Ultra Phone.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -64,7 +64,7 @@ const [favorites, setFavorites] = useState({});
                     </span>
                     <p className="text-white mb-4">The Kage Zenra Ultra feels premium from the moment you pick it up. It’s fast, smooth, and stylish, with a great display and reliable performance. Delivery was quick too, and I’m very happy with my purchase!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 4.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 4.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Jack Walcott</p>
                         <p className="text-gray-400">Luton, England</p>
@@ -84,7 +84,7 @@ const [favorites, setFavorites] = useState({});
                     </span>
                     <p className="text-white mb-4">The Kage Zenra Ultra has a sleek design and delivers a smooth, responsive experience. The display is vibrant, performance is impressive, and everything arrived safely and on time. Definitely enjoying it!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 11.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 11.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Destiny Agbo</p>
@@ -105,7 +105,7 @@ const [favorites, setFavorites] = useState({});
                     <span className="flex flex-row gap-19">
                       
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Elera Max Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Elera Max Phone.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                    <button
                         type="button"
@@ -130,7 +130,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
               <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Aero Max Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Aero Max Phone.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("aeroMax")}

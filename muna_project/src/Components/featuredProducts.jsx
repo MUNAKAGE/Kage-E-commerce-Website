@@ -29,7 +29,7 @@ function Featured() {
 
               
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <Link to="/eclipselaptop"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Eclipse 17 Laptop.png"></img></Link>
+                    <Link to="/eclipselaptop"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Eclipse 17 Laptop.png"></img></Link>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                    <button
                         type="button"
@@ -54,7 +54,7 @@ function Featured() {
                 </span>
                     
                       <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <Link to="/apexwatch"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Smart Watch.png"></img></Link>
+                    <Link to="/apexwatch"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Smart Watch.png"></img></Link>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">Best Seller</p>
                    <button
                         type="button"
@@ -79,7 +79,7 @@ function Featured() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                <Link to="/clarityone"><img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Clarity One Headphone.png" alt="Wireless Headphones"  /></Link>
+                <Link to="/clarityone"><img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Clarity One Headphone.png" alt="Wireless Headphones"  /></Link>
                    <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                    <button
                         type="button"
@@ -104,7 +104,7 @@ function Featured() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <Link to="/lumiax1"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Lumia X1 Phone.png"></img></Link>
+                    <Link to="/lumiax1"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Lumia X1 Phone.png"></img></Link>
                      <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -130,7 +130,7 @@ function Featured() {
 
                 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <Link to="/corestation"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/CoreStation.png"></img> </Link>
+                    <Link to="/corestation"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/CoreStation.png"></img> </Link>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -156,7 +156,7 @@ function Featured() {
 
                         
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <Link to="/titanlaptop"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Titan 17 Laptop.png"></img> </Link>
+                    <Link to="/titanlaptop"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Titan 17 Laptop.png"></img> </Link>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -181,7 +181,7 @@ function Featured() {
                 </span>
 
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <Link to ="/edgecontrol"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/Controller.png"></img></Link>
+                    <Link to ="/edgecontrol"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/Controller.png"></img></Link>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -206,7 +206,7 @@ function Featured() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <Link to="/linkglasses"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Glasses Images/Link SmartGlasses.png"></img> </Link>
+                    <Link to="/linkglasses"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Glasses Images/Link SmartGlasses.png"></img> </Link>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">Best Seller</p>
                     <button
                         type="button"

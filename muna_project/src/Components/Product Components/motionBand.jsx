@@ -6,7 +6,7 @@ function MotionBand() {
 
                 <div>
                     <p className="bg-green-400 w-14 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Fit-Band Images/MotionBand.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Fit-Band Images/MotionBand.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -52,7 +52,7 @@ function MotionBand() {
                     </span>
                     <p className="text-white mb-4">The Kage MotionBand is comfortable, stylish, and easy to use. It tracks my activity smoothly and fits perfectly into my daily routine. Delivery was quick, and I’m really happy with my purchase!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 9.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 9.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">David Igwe</p>
                         <p className="text-gray-400">Ebonyi, Nigeria</p>
@@ -72,7 +72,7 @@ function MotionBand() {
                     </span>
                     <p className="text-white mb-4">The Kage MotionBand is lightweight, comfortable, and easy to use. It keeps track of my daily activity and looks great on my wrist. Fast delivery and great quality too!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 1 (1).jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 1 (1).jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Christina Brown</p>
@@ -93,7 +93,7 @@ function MotionBand() {
                     <span className="flex flex-row gap-19">
                 
                       <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Nova Watch Pro.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Nova Watch Pro.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Titan Watch Ultra</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">
@@ -109,7 +109,7 @@ function MotionBand() {
                 </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Ring Images/Aura Ring.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Ring Images/Aura Ring.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-25%</p>
                     <i class="fa-regular fa-heart text-2xl relative left-57 bottom-73"></i>
                     <p className="relative bottom-6 font-bold text-center">Kage Aura Ring</p>

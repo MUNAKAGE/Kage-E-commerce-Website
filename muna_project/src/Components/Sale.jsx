@@ -33,7 +33,7 @@ return(
             <span className="flex flex-row gap-x-15 justify-center text-white Hero-text mt-18">
                 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <Link to="/eleraphone"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Elera Max Phone.png"></img></Link>
+                    <Link to="/eleraphone"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Elera Max Phone.png"></img></Link>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                     <button
                         type="button"
@@ -58,7 +58,7 @@ return(
                 </span>
 
              <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <Link to="/strikepad"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Keyboard Images/Keyboard.png"></img></Link>
+                    <Link to="/strikepad"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Keyboard Images/Keyboard.png"></img></Link>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                      <button
                         type="button"
@@ -83,7 +83,7 @@ return(
                 </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                   <Link to="/corelaptop"> <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Core 15 Laptop.png"></img></Link>
+                   <Link to="/corelaptop"> <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Core 15 Laptop.png"></img></Link>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-15%</p>
                       <button
                         type="button"
@@ -110,7 +110,7 @@ return(
 
 
                     <span className="border-4 border-[#2EC4B6] w-70 rounded-lg">
-                        <Link to="/beatx"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headset Images/Headset Image.png" alt="Headset"></img></Link>
+                        <Link to="/beatx"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headset Images/Headset Image.png" alt="Headset"></img></Link>
                         <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-30%</p>
                         <button
                             type="button"

@@ -6,7 +6,7 @@ function ClarityOne() {
 
                 <div>
                      <p className="bg-[#2EC4B6] w-27 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">Best Seller</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Headphone Images/Clarity One Headphone.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Headphone Images/Clarity One Headphone.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -52,7 +52,7 @@ function ClarityOne() {
                     </span>
                     <p className="text-white mb-4">The Kage Clarity One delivers clear, immersive sound with a sleek and comfortable design. Great for music, gaming, and everyday listening.</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 6.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 6.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Daniel Okafor</p>
                         <p className="text-gray-400">Enugu, Nigeria</p>
@@ -72,7 +72,7 @@ function ClarityOne() {
                     </span>
                     <p className="text-white mb-4">The Kage Clarity One offers crisp sound, comfortable wear, and a sleek design. A great choice for enjoying music and entertainment anywhere.</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 7.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 7.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Kingsley Okonkwo</p>
@@ -93,7 +93,7 @@ function ClarityOne() {
                     <span className="flex flex-row gap-19">
                        
                        <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Earbuds Images/Aura Pro Earbuds.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/Aura Pro Earbuds.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Aura Pro Buds</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">
@@ -109,7 +109,7 @@ function ClarityOne() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Hush 2 Headphones.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Hush 2 Headphones.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Hush 2</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">

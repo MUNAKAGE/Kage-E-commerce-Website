@@ -10,7 +10,7 @@ function Passion() {
                 </span>
 
                 <span>
-                    <img src="./src/assets/AboutImage.png" className="w-150 h-160 relative left-30 top-20 rounded-2xl shadow-[0px_0px_20px_#00E5FF] bg-[#1b1c1b]" alt=""/>
+                    <img src="/assets/AboutImage.png" className="w-150 h-160 relative left-30 top-20 rounded-2xl shadow-[0px_0px_20px_#00E5FF] bg-[#1b1c1b]" alt=""/>
 
                     <span className="bg-[#2d2d46] relative top-2 left-20 rounded-xl flex flex-col gap-0.5 w-65 h-25 pt-2 pl-4">
                         <p className="text-white text-2xl font-bold">Since 2026</p>

@@ -8,7 +8,7 @@ function AboutFooter() {
                 <div className="flex flex-row gap-50 justify-center mt-10 mb-10">
 
                 <span className="flex flex-col gap-6">
-                    <img src="./src/assets/Logo.png" className="w-30 h-10" alt="Logomuna_project/src/assets/Logo.png"></img>
+                    <img src="/assets/Logo.png" className="w-30 h-10" alt="Muna logo"></img>
                     <p>Discover curated collections of <br/>premium tech, devices & accessories</p>
                     <span className="flex flex-row gap-5 text-xl">
                         <i class="fa-brands fa-instagram hover:text-[#2EC4B6]"></i>

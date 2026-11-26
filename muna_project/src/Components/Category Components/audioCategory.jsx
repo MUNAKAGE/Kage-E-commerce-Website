@@ -23,7 +23,7 @@ function AudioCategory() {
                 <span className="grid grid-cols-4 justify-center ml-18 gap-y-10 mt-20 text-white Hero-text">
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <Link to="/echobuds"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Earbuds Images/Echo Buds Earbuds.png"></img></Link>
+                    <Link to="/echobuds"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/Echo Buds Earbuds.png"></img></Link>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("echoBuds")}
@@ -47,7 +47,7 @@ function AudioCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Earbuds Images/Earbuds.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/Earbuds.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                      <button
                         type="button"
@@ -73,7 +73,7 @@ function AudioCategory() {
 
              
                  <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/Boom 360 Speaker.png" alt="Speaker" />
+                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/Boom 360 Speaker.png" alt="Speaker" />
                 <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <button
                         type="button"
@@ -99,7 +99,7 @@ function AudioCategory() {
 
                 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Earbuds Images/AirLoop Earbuds.png" alt="Earbuds" />
+                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/AirLoop Earbuds.png" alt="Earbuds" />
                      <button
                         type="button"
                         onClick={() => toggleFavorite("airLoop")}
@@ -124,7 +124,7 @@ function AudioCategory() {
 
                 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Headphone.png" alt="Wireless Headphones"  />
+                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Headphone.png" alt="Wireless Headphones"  />
                     <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                      <button
                         type="button"
@@ -151,7 +151,7 @@ function AudioCategory() {
 
 
                 <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/DeepBass X Speaker.png" alt="Speaker" />
+                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/DeepBass X Speaker.png" alt="Speaker" />
                 <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                      <button
                         type="button"
@@ -177,7 +177,7 @@ function AudioCategory() {
 
                 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Sonic Pro Headphones.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Sonic Pro Headphones.png"></img>
                    <button
                         type="button"
                         onClick={() => toggleFavorite("sonicPro")}
@@ -201,7 +201,7 @@ function AudioCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/Soundbar S1.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/Soundbar S1.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("soundBar")}
@@ -225,7 +225,7 @@ function AudioCategory() {
                 </span>
 
                  <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Microphone Images/Voicepod Microphone.png" alt="Speaker" />
+                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Microphone Images/Voicepod Microphone.png" alt="Speaker" />
                 <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
                         type="button"
@@ -250,7 +250,7 @@ function AudioCategory() {
                 </span>
 
              <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Earbuds Images/Aura Pro Earbuds.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/Aura Pro Earbuds.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("auraPro")}
@@ -274,7 +274,7 @@ function AudioCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/BassCore Speaker.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/BassCore Speaker.png"></img>
                       <button
                         type="button"
                         onClick={() => toggleFavorite("bassCore")}
@@ -298,7 +298,7 @@ function AudioCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Hush 2 Headphones.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Hush 2 Headphones.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("hush2")}
@@ -322,7 +322,7 @@ function AudioCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/Resonance 2 Speaker.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/Resonance 2 Speaker.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("resonance2")}
@@ -347,7 +347,7 @@ function AudioCategory() {
 
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/AudioDock.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/AudioDock.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("audioDock")}
@@ -371,7 +371,7 @@ function AudioCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/ClearTone Headphone.png" alt="Wireless Headphones"  />
+                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/ClearTone Headphone.png" alt="Wireless Headphones"  />
                     <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
                         type="button"
@@ -397,7 +397,7 @@ function AudioCategory() {
 
                 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/BeatBox Speaker.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/BeatBox Speaker.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("beatBox")}
@@ -421,7 +421,7 @@ function AudioCategory() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/Rhythm Go Speaker.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/Rhythm Go Speaker.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("rhythmGo")}
@@ -446,7 +446,7 @@ function AudioCategory() {
 
                 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/DeepBass SubWoofer.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/DeepBass SubWoofer.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("deepbassSub")}
@@ -470,7 +470,7 @@ function AudioCategory() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/SoundPod Speaker.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/SoundPod Speaker.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("soundPod")}
@@ -494,7 +494,7 @@ function AudioCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Clarity One Headphone.png" alt="Wireless Headphones"  />
+                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Clarity One Headphone.png" alt="Wireless Headphones"  />
                    <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"

@@ -23,7 +23,7 @@ function NewProducts() {
             <span className="grid grid-cols-4 justify-center ml-18 gap-y-10 mt-20 text-white Hero-text">
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Laptop.png"></img>
                     <p className="bg-green-400 w-14 relative bottom-67  ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button 
                         type="button" 
@@ -49,7 +49,7 @@ function NewProducts() {
 
                  
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Phone.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center " >New</p>
                     <button
                         type="button"
@@ -74,7 +74,7 @@ function NewProducts() {
                 </span>
 
                   <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/Boom 360 Speaker.png" alt="Speaker" />
+                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/Boom 360 Speaker.png" alt="Speaker" />
                 <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                    <button
                         type="button"
@@ -100,7 +100,7 @@ function NewProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headset Images/Vox Pro Headset.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headset Images/Vox Pro Headset.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <button
                         type="button"
@@ -125,7 +125,7 @@ function NewProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Fit-Band Images/MotionBand.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Fit-Band Images/MotionBand.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <button
                         type="button"
@@ -150,7 +150,7 @@ function NewProducts() {
                 </span>
 
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Apex 16 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Apex 16 Laptop.png"></img>
                     <p className="bg-green-400 w-14 relative bottom-67  ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
                         type="button"
@@ -175,7 +175,7 @@ function NewProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Headphone.png" alt="Wireless Headphones"  />
+                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Headphone.png" alt="Wireless Headphones"  />
                     <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                      <button
                         type="button"
@@ -200,7 +200,7 @@ function NewProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Keyboard Images/Mechanical Keyboard.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Keyboard Images/Mechanical Keyboard.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <button
                         type="button"
@@ -225,7 +225,7 @@ function NewProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/Nova Pro Controller.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/Nova Pro Controller.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                      <button
                         type="button"
@@ -250,7 +250,7 @@ function NewProducts() {
                 </span>
 
                  <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Microphone Images/Voicepod Microphone.png" alt="Speaker" />
+                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Microphone Images/Voicepod Microphone.png" alt="Speaker" />
                 <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                    <button
                         type="button"
@@ -275,7 +275,7 @@ function NewProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/ClearTone Headphone.png" alt="Wireless Headphones"  />
+                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/ClearTone Headphone.png" alt="Wireless Headphones"  />
                     <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
                         type="button"

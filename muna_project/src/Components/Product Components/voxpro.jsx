@@ -19,7 +19,7 @@ return(
 
                 <div>
                       <p className="bg-green-400 w-14 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Headset Images/Vox Pro Headset.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Headset Images/Vox Pro Headset.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -65,7 +65,7 @@ return(
                     </span>
                     <p className="text-white mb-4">The Kage Vox Pro delivers clear, immersive sound and feels comfortable even during long gaming sessions. The audio is crisp, the headset looks great, and it arrived quickly and well packaged. Really happy with it!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 5.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 5.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Micheal Olujari</p>
                         <p className="text-gray-400">Lagos, Nigeria</p>
@@ -85,7 +85,7 @@ return(
                     </span>
                     <p className="text-white mb-4">The Kage Vox Pro has excellent sound quality and feels comfortable for long gaming sessions. The audio is clear, the fit is great, and the quick delivery was a nice bonus. Definitely enjoying it!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 7.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 7.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Kingsley Okonkwo</p>
@@ -107,7 +107,7 @@ return(
                       
                     
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Mouse Images/TitanPad.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Mouse Images/TitanPad.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("titanPad")}
@@ -132,7 +132,7 @@ return(
 
                 
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                   <Link to="strikepad"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Keyboard Images/Keyboard.png"></img></Link> 
+                   <Link to="strikepad"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Keyboard Images/Keyboard.png"></img></Link>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                      <button
                         type="button"

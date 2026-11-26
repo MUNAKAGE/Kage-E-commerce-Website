@@ -24,7 +24,7 @@ const [favorites, setFavorites] = useState({});
 
                 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                   <Link to ="/pulsewatch"> <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Pulse Watch.png"></img></Link>
+                   <Link to ="/pulsewatch"> <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Pulse Watch.png"></img></Link>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("pulseWatch")}
@@ -48,7 +48,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Fit-Band Images/FitBand.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Fit-Band Images/FitBand.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("fitBand2")}
@@ -73,7 +73,7 @@ const [favorites, setFavorites] = useState({});
 
                   
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Smart Watch.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Smart Watch.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">Best Seller</p>
                      <button
                         type="button"
@@ -98,7 +98,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Nova Watch Pro.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Nova Watch Pro.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("novaWatchPro")}
@@ -122,7 +122,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Fit-Band Images/ActiveBand.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Fit-Band Images/ActiveBand.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-10%</p>
                      <button
                         type="button"
@@ -147,7 +147,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Ring Images/Core RIng.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Ring Images/Core RIng.png"></img>
                    <button
                         type="button"
                         onClick={() => toggleFavorite("coreRing")}
@@ -171,7 +171,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Nova Watch Pro.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Nova Watch Pro.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("titanWatch")}
@@ -195,7 +195,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Ring Images/Aura Ring.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Ring Images/Aura Ring.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-25%</p>
                    <button
                         type="button"
@@ -220,7 +220,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
                  
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Fit-Band Images/MotionBand.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Fit-Band Images/MotionBand.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                      <button
                         type="button"
@@ -245,7 +245,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Glasses Images/Vision SmartGlasses.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Glasses Images/Vision SmartGlasses.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("vision")}
@@ -269,7 +269,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Ring Images/Pulse Ring Pro.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Ring Images/Pulse Ring Pro.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("pulseRingPro")}
@@ -293,7 +293,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Glasses Images/Vision Pro SmartGlasses.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Glasses Images/Vision Pro SmartGlasses.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("visionPro")}
@@ -317,7 +317,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
                 
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Glasses Images/View AR SmartGlasses.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Glasses Images/View AR SmartGlasses.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("viewAR2")}
@@ -341,7 +341,7 @@ const [favorites, setFavorites] = useState({});
                 </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Glasses Images/Link SmartGlasses.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Glasses Images/Link SmartGlasses.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">Best Seller</p>
                     <button
                         type="button"

@@ -24,7 +24,7 @@ function GamingCategory() {
                 <span className="grid grid-cols-4 justify-center ml-18 gap-y-10 mt-20 text-white Hero-text">
 
                   <span className="border-4 border-[#2EC4B6] w-70 rounded-lg">
-                       <Link to="/beatx"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headset Images/Headset Image.png" alt="Headset"></img></Link>
+                       <Link to="/beatx"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headset Images/Headset Image.png" alt="Headset"></img></Link>
                          <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-30%</p>
                          <button
                             type="button"
@@ -49,7 +49,7 @@ function GamingCategory() {
                     </span>
 
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                   <Link to="/strikepad"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Keyboard Images/Keyboard.png"></img></Link> 
+                   <Link to="/strikepad"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Keyboard Images/Keyboard.png"></img></Link>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                      <button
                         type="button"
@@ -74,7 +74,7 @@ function GamingCategory() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <Link to="/voxpro"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headset Images/Vox Pro Headset.png"></img></Link>
+                    <Link to="/voxpro"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headset Images/Vox Pro Headset.png"></img></Link>
                      <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                      <button
                         type="button"
@@ -100,7 +100,7 @@ function GamingCategory() {
 
                 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/PulseGrip Controller.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/PulseGrip Controller.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("pulseGrip")}
@@ -124,7 +124,7 @@ function GamingCategory() {
                 </span>
 
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                   <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Mouse Images/Mouse.png"></img>
+                   <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Mouse Images/Mouse.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-15%</p>
                     <button
                         type="button"
@@ -149,7 +149,7 @@ function GamingCategory() {
                     </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Mouse Images/TitanPad.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Mouse Images/TitanPad.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("titanPad")}
@@ -173,7 +173,7 @@ function GamingCategory() {
                 </span>
                         
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/Controller.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/Controller.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -198,7 +198,7 @@ function GamingCategory() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Microphone Images/Phantom MicroPhone.png" alt="Gaming Mouse"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Microphone Images/Phantom MicroPhone.png" alt="Gaming Mouse"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("phantomMic")}
@@ -222,7 +222,7 @@ function GamingCategory() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Keyboard Images/Mechanical Keyboard.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Keyboard Images/Mechanical Keyboard.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <button
                         type="button"
@@ -247,7 +247,7 @@ function GamingCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Mouse Images/ProClick Mouse.png" alt="Gaming Mouse"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Mouse Images/ProClick Mouse.png" alt="Gaming Mouse"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("proClick")}
@@ -271,7 +271,7 @@ function GamingCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/PulseCam.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/PulseCam.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("pulseCam")}
@@ -295,7 +295,7 @@ function GamingCategory() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Mouse Images/RGB Core.png" alt="Gaming Mouse"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Mouse Images/RGB Core.png" alt="Gaming Mouse"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("rgbCore")}
@@ -319,7 +319,7 @@ function GamingCategory() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Vision X.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Vision X.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("visionX")}
@@ -343,7 +343,7 @@ function GamingCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/GameDock.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/GameDock.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("gameDock")}
@@ -367,7 +367,7 @@ function GamingCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/Apex Controller.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/Apex Controller.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("apexPad")}
@@ -391,7 +391,7 @@ function GamingCategory() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/CoreStation.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/CoreStation.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -416,7 +416,7 @@ function GamingCategory() {
                 </span>
 
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/Nova Pro Controller.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/Nova Pro Controller.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                      <button
                         type="button"

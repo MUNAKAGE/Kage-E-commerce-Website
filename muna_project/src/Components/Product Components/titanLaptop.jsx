@@ -6,7 +6,7 @@ function TitanLaptop() {
 
                 <div>
                      <p className="bg-[#2EC4B6] w-27 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">Best Seller</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Laptop Images/Titan 17 Laptop.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Laptop Images/Titan 17 Laptop.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -52,7 +52,7 @@ function TitanLaptop() {
                     </span>
                     <p className="text-white mb-4">The Kage Titan 17 is seriously impressive. It’s fast, powerful, and the large display makes gaming and streaming feel amazing. Definitely happy with my purchase</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 9.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 9.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">David Igwe</p>
                         <p className="text-gray-400">Ebonyi, Nigeria</p>
@@ -72,7 +72,7 @@ function TitanLaptop() {
                     </span>
                     <p className="text-white mb-4">The Kage Titan 17 has exceeded my expectations. The performance is smooth, the display is impressive, and it handles both gaming and everyday tasks with ease. A fantastic laptop overall!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 4.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 4.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Jack Walcott</p>
@@ -93,7 +93,7 @@ function TitanLaptop() {
                     <span className="flex flex-row gap-19">
                    
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Apex 16 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Apex 16 Laptop.png"></img>
                     <p className="bg-green-400 w-14 relative bottom-67  ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
                     <p className="font-bold relative bottom-6 text-center">Kage Apex 16</p>
@@ -111,7 +111,7 @@ function TitanLaptop() {
 
                  
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Flux 14 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Flux 14 Laptop.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Flux 14</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">

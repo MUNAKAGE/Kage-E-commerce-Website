@@ -8,7 +8,7 @@ function EdgeControl() {
 
                 <div>
                      <p className="bg-[#2EC4B6] w-27 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center mb-4">Best Seller</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Controller Images/Controller.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Controller Images/Controller.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -54,7 +54,7 @@ function EdgeControl() {
                     </span>
                     <p className="text-white mb-4">The Kage Edge Control feels great in hand and responds smoothly during gameplay. The controls are precise, comfortable, and perfect for long gaming sessions. Really happy with it!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 10.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 10.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Adaugo Nduka</p>
                         <p className="text-gray-400">Anambra, Nigeria</p>
@@ -74,7 +74,7 @@ function EdgeControl() {
                     </span>
                     <p className="text-white mb-4">The Kage Edge Control feels great in hand and responds smoothly during gameplay. It arrived quickly, was well packaged, and the warranty gave me extra peace of mind. Really happy with my purchase!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 11.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 11.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Destiny Agbo</p>
@@ -95,7 +95,7 @@ function EdgeControl() {
                     <span className="flex flex-row gap-19">
                   
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/PulseGrip Controller.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/PulseGrip Controller.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage PulseGrip</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">
@@ -112,7 +112,7 @@ function EdgeControl() {
 
 
                  <span className="border-4 border-[#2EC4B6] w-70 rounded-lg">
-                        <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headset Images/Headset Image.png" alt="Headset"></img>
+                        <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headset Images/Headset Image.png" alt="Headset"></img>
                          <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-30%</p>
                         <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
                         <p className="font-bold relative bottom-6 text-center">Kage Beat X</p>

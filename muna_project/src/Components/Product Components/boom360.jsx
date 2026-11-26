@@ -6,7 +6,7 @@ function Boom360() {
 
                 <div>
                      <p className="bg-green-400 w-14 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Speaker Images/Boom 360 Speaker.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Speaker Images/Boom 360 Speaker.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -52,7 +52,7 @@ function Boom360() {
                     </span>
                     <p className="text-white mb-4">The Kage Boom 360 sounds amazing! The bass is powerful, the audio is clear, and it fills the room perfectly. It arrived quickly and was well packaged. Definitely happy with my purchase!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 6.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 6.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Daniel Okafor</p>
                         <p className="text-gray-400">Enugu, Nigeria</p>
@@ -72,7 +72,7 @@ function Boom360() {
                     </span>
                     <p className="text-white mb-4">The Kage Boom 360 delivers impressive sound with deep bass and clear audio. It’s stylish, easy to use, and perfect for music at home or on the go. Great value for the quality!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 8.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 8.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Rachel Mitchell</p>
@@ -93,7 +93,7 @@ function Boom360() {
                     <span className="flex flex-row gap-19">
                       
                      <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/DeepBass X Speaker.png" alt="Speaker" />
+                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/DeepBass X Speaker.png" alt="Speaker" />
                 <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
                     <p className="font-bold text-center relative bottom-6">Kage Boom 360</p>
@@ -110,7 +110,7 @@ function Boom360() {
                 </span>
 
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Sonic Pro Headphones.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Sonic Pro Headphones.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Sonic Pro</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">

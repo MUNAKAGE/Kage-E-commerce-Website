@@ -21,7 +21,7 @@ function AllProducts() {
               <div className="grid grid-cols-4 justify-center ml-15 gap-y-10 mt-10 text-white Hero-text">
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Phantom 16 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Phantom 16 Laptop.png"></img>
                   <button
                         type="button"
                         onClick={() => toggleFavorite("phantom16")}
@@ -45,7 +45,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Lumia X1 Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Lumia X1 Phone.png"></img>
                      <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -70,7 +70,7 @@ function AllProducts() {
                 </span>
 
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Earbuds Images/Echo Buds Earbuds.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/Echo Buds Earbuds.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("echoBuds")}
@@ -94,7 +94,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Mouse Images/ProClick Mouse.png" alt="Gaming Mouse"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Mouse Images/ProClick Mouse.png" alt="Gaming Mouse"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("proClick")}
@@ -119,7 +119,7 @@ function AllProducts() {
 
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/Apex Controller.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/Apex Controller.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("apexPad")}
@@ -143,7 +143,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Laptop.png"></img>
                     <p className="bg-green-400 w-14 relative bottom-67  ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
                         type="button"
@@ -168,7 +168,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Glasses Images/Link SmartGlasses.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Glasses Images/Link SmartGlasses.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">Best Seller</p>
                     <button
                         type="button"
@@ -193,7 +193,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Earbuds Images/Earbuds.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/Earbuds.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                     <button
                         type="button"
@@ -218,7 +218,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Nova Pro Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Nova Pro Phone.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("novaPro")}
@@ -242,7 +242,7 @@ function AllProducts() {
                 </span>
 
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/Nova Pro Controller.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/Nova Pro Controller.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <button
                         type="button"
@@ -267,7 +267,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Nova 15 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Nova 15 Laptop.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("nova15")}
@@ -291,7 +291,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Glasses Images/View AR SmartGlasses.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Glasses Images/View AR SmartGlasses.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("viewAR2")}
@@ -315,7 +315,7 @@ function AllProducts() {
                 </span>
 
                  <span className="border-4 border-[#2EC4B6] w-70 rounded-lg">
-                        <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headset Images/Headset Image.png" alt="Headset"></img>
+                        <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headset Images/Headset Image.png" alt="Headset"></img>
                          <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-30%</p>
                         <button
                             type="button"
@@ -340,7 +340,7 @@ function AllProducts() {
                     </span>
 
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Clarity One Headphone.png" alt="Wireless Headphones"  />
+                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Clarity One Headphone.png" alt="Wireless Headphones"  />
                    <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -365,7 +365,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Zenra Ultra Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Zenra Ultra Phone.png"></img>
                      <button
                             type="button"
                             onClick={() => toggleFavorite("zenraUltra")}
@@ -389,7 +389,7 @@ function AllProducts() {
                 </span>
 
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Eclipse 17 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Eclipse 17 Laptop.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -414,7 +414,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Glasses Images/Vision Pro SmartGlasses.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Glasses Images/Vision Pro SmartGlasses.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("visionPro")}
@@ -439,7 +439,7 @@ function AllProducts() {
 
                 
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Keyboard Images/Keyboard.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Keyboard Images/Keyboard.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                     <button
                         type="button"
@@ -464,7 +464,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/SoundPod Speaker.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/SoundPod Speaker.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("soundPod")}
@@ -488,7 +488,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Halo 5g Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Halo 5g Phone.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("halo5g")}
@@ -512,7 +512,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Vortex 15 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Vortex 15 Laptop.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("vortex15")}
@@ -536,7 +536,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Ring Images/Pulse Ring Pro.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Ring Images/Pulse Ring Pro.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("pulseRingPro")}
@@ -560,7 +560,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headset Images/Vox Pro Headset.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headset Images/Vox Pro Headset.png"></img>
                      <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <button
                         type="button"
@@ -586,7 +586,7 @@ function AllProducts() {
 
                 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/DeepBass SubWoofer.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/DeepBass SubWoofer.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("deepbassSub")}
@@ -610,7 +610,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Mira X Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Mira X Phone.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("miraX")}
@@ -634,7 +634,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Titan 17 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Titan 17 Laptop.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -659,7 +659,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Glasses Images/Vision SmartGlasses.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Glasses Images/Vision SmartGlasses.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("vision")}
@@ -683,7 +683,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/PulseGrip Controller.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/PulseGrip Controller.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("pulseGrip")}
@@ -707,7 +707,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/Rhythm Go Speaker.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/Rhythm Go Speaker.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("rhythmGo")}
@@ -732,7 +732,7 @@ function AllProducts() {
 
                 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Phone.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center " >New</p>
                     <button
                         type="button"
@@ -757,7 +757,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Edge 15 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Edge 15 Laptop.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("edge15")}
@@ -781,7 +781,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Fit-Band Images/MotionBand.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Fit-Band Images/MotionBand.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <button
                         type="button"
@@ -806,7 +806,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                   <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Mouse Images/Mouse.png"></img>
+                   <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Mouse Images/Mouse.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-15%</p>
                     <button
                         type="button"
@@ -831,7 +831,7 @@ function AllProducts() {
                     </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/BeatBox Speaker.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/BeatBox Speaker.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("beatBox")}
@@ -855,7 +855,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Solis Pro Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Solis Pro Phone.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("solisPro")}
@@ -879,7 +879,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Apex 16 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Apex 16 Laptop.png"></img>
                     <p className="bg-green-400 w-14 relative bottom-67  ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
                         type="button"
@@ -904,7 +904,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Ring Images/Aura Ring.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Ring Images/Aura Ring.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-25%</p>
                     <button
                         type="button"
@@ -929,7 +929,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Mouse Images/TitanPad.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Mouse Images/TitanPad.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("titanPad")}
@@ -953,7 +953,7 @@ function AllProducts() {
                 </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/ClearTone Headphone.png" alt="Wireless Headphones"  />
+                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/ClearTone Headphone.png" alt="Wireless Headphones"  />
                     <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
                         type="button"
@@ -978,7 +978,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Elera Max Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Elera Max Phone.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                     <button
                         type="button"
@@ -1003,7 +1003,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Flux 14 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Flux 14 Laptop.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("flux14")}
@@ -1027,7 +1027,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Nova Watch Pro.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Nova Watch Pro.png"></img>
                   <button
                         type="button"
                         onClick={() => toggleFavorite("titanWatch")}
@@ -1051,7 +1051,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/Controller.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/Controller.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -1076,7 +1076,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Aero Max Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Aero Max Phone.png"></img>
                    <button
                         type="button"
                         onClick={() => toggleFavorite("aeroMax")}
@@ -1100,7 +1100,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Spectra 15 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Spectra 15 Laptop.png"></img>
                    <button
                         type="button"
                         onClick={() => toggleFavorite("spectra15")}
@@ -1124,7 +1124,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Ring Images/Core RIng.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Ring Images/Core RIng.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("coreRing")}
@@ -1148,7 +1148,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Keyboard Images/Mechanical Keyboard.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Keyboard Images/Mechanical Keyboard.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <button
                         type="button"
@@ -1173,7 +1173,7 @@ function AllProducts() {
                 </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/AudioDock.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/AudioDock.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("audioDock")}
@@ -1197,7 +1197,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Astria Ultra Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Astria Ultra Phone.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -1222,7 +1222,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Zenith 16 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Zenith 16 Laptop.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("zenith16")}
@@ -1246,7 +1246,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Fit-Band Images/ActiveBand.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Fit-Band Images/ActiveBand.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-10%</p>
                     <button
                         type="button"
@@ -1271,7 +1271,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Microphone Images/Phantom MicroPhone.png" alt="Gaming Mouse"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Microphone Images/Phantom MicroPhone.png" alt="Gaming Mouse"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("phantomMic")}
@@ -1295,7 +1295,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/Resonance 2 Speaker.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/Resonance 2 Speaker.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("resonance2")}
@@ -1321,7 +1321,7 @@ function AllProducts() {
                   
 
                  <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/Boom 360 Speaker.png" alt="Speaker" />
+                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/Boom 360 Speaker.png" alt="Speaker" />
                 <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <button
                         type="button"
@@ -1346,7 +1346,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Nova Watch Pro.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Nova Watch Pro.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("novaWatchPro")}
@@ -1372,7 +1372,7 @@ function AllProducts() {
                 
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/PulseCam.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/PulseCam.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("pulseCam")}
@@ -1396,7 +1396,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Hush 2 Headphones.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Hush 2 Headphones.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("hush2")}
@@ -1420,7 +1420,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Smart Watch.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Smart Watch.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">Best Seller</p>
                     <button
                         type="button"
@@ -1445,7 +1445,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Mouse Images/RGB Core.png" alt="Gaming Mouse"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Mouse Images/RGB Core.png" alt="Gaming Mouse"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("rgbCore")}
@@ -1469,7 +1469,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/BassCore Speaker.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/BassCore Speaker.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("bassCore")}
@@ -1493,7 +1493,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Core 15 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Core 15 Laptop.png"></img>
                      <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-15%</p>
                     <button
                         type="button"
@@ -1518,7 +1518,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Vision X.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Vision X.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("visionX")}
@@ -1542,7 +1542,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Earbuds Images/Aura Pro Earbuds.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/Aura Pro Earbuds.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("auraPro")}
@@ -1566,7 +1566,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Fit-Band Images/FitBand.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Fit-Band Images/FitBand.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("fitBand2")}
@@ -1590,7 +1590,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Controller Images/GameDock.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Controller Images/GameDock.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("gameDock")}
@@ -1614,7 +1614,7 @@ function AllProducts() {
                 </span>
 
                  <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Microphone Images/Voicepod Microphone.png" alt="Speaker" />
+                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Microphone Images/Voicepod Microphone.png" alt="Speaker" />
                 <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
                         type="button"
@@ -1639,7 +1639,7 @@ function AllProducts() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Pulse Watch.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Pulse Watch.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("pulseWatch")}
@@ -1663,7 +1663,7 @@ function AllProducts() {
                 </span>
 
                  <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/DeepBass X Speaker.png" alt="Speaker" />
+                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/DeepBass X Speaker.png" alt="Speaker" />
                 <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                      <button
                         type="button"
@@ -1689,7 +1689,7 @@ function AllProducts() {
 
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Speaker Images/Soundbar S1.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/Soundbar S1.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("soundBar")}
@@ -1713,7 +1713,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/CoreStation.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/CoreStation.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -1738,7 +1738,7 @@ function AllProducts() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Sonic Pro Headphones.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Sonic Pro Headphones.png"></img>
                    <button
                         type="button"
                         onClick={() => toggleFavorite("sonicPro")}
@@ -1762,7 +1762,7 @@ function AllProducts() {
                 </span>
 
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Headphone Images/Headphone.png" alt="Wireless Headphones"  />
+                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Headphone.png" alt="Wireless Headphones"  />
                     <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                      <button
                         type="button"
@@ -1787,7 +1787,7 @@ function AllProducts() {
                 </span>
 
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Earbuds Images/AirLoop Earbuds.png" alt="Earbuds" />
+                    <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/AirLoop Earbuds.png" alt="Earbuds" />
                      <button
                         type="button"
                         onClick={() => toggleFavorite("airLoop")}

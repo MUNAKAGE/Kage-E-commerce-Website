@@ -25,7 +25,7 @@ function PhoneCategory() {
                     
                     
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <Link to="/zenraphone"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Zenra Ultra Phone.png"></img></Link>
+                    <Link to="/zenraphone"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Zenra Ultra Phone.png"></img></Link>
                     <button
                             type="button"
                             onClick={() => toggleFavorite("zenraUltra")}
@@ -49,7 +49,7 @@ function PhoneCategory() {
                 </span>
                   
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Halo 5g Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Halo 5g Phone.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("halo5g")}
@@ -73,7 +73,7 @@ function PhoneCategory() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Mira X Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Mira X Phone.png"></img>
                      <button
                         type="button"
                         onClick={() => toggleFavorite("miraX")}
@@ -97,7 +97,7 @@ function PhoneCategory() {
                 </span>
 
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Lumia X1 Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Lumia X1 Phone.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -123,7 +123,7 @@ function PhoneCategory() {
 
                   
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Phone.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center " >New</p>
                     <button
                         type="button"
@@ -148,7 +148,7 @@ function PhoneCategory() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Solis Pro Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Solis Pro Phone.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("solisPro")}
@@ -172,7 +172,7 @@ function PhoneCategory() {
                 </span>
 
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Elera Max Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Elera Max Phone.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                    <button
                         type="button"
@@ -197,7 +197,7 @@ function PhoneCategory() {
                 </span>
 
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Aero Max Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Aero Max Phone.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("aeroMax")}
@@ -222,7 +222,7 @@ function PhoneCategory() {
 
                  
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Astria Ultra Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Astria Ultra Phone.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
                         type="button"
@@ -247,7 +247,7 @@ function PhoneCategory() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Nova Pro Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Nova Pro Phone.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("novaPro")}

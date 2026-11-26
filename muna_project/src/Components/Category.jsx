@@ -14,7 +14,7 @@ function Category() {
                 <span className="Category-grid gap-20 justify-center ml-28 mt-19 text-white Hero-text">
                     
                     <span className="row-span-2 transition-all duration-300 hover:scale-[1.02]">
-                       <Link to="/laptopCategory"> <img className=" w-100 h-140 rounded-xl shadow-[0px_0px_20px_#00E5FF] hover:shadow-[0px_0px_50px_#00E5FF] border-3 border-[#2EC4B6]" src="./src/assets/Laptop Images/Phantom 16 Laptop.png" alt="" />
+                       <Link to="/laptopCategory"> <img className=" w-100 h-140 rounded-xl shadow-[0px_0px_20px_#00E5FF] hover:shadow-[0px_0px_50px_#00E5FF] border-3 border-[#2EC4B6]" src="/assets/Laptop Images/Phantom 16 Laptop.png" alt="" />
                          <button className="relative bottom-135 left-70 group text-[#00ffe5] hover:text-[#2EC4B6] font-bold border-gray-400 backdrop-blur-2xl">Shop Now <span className="group-hover:translate-x-2 ml-0.5 transition-transform-duration-900 inline-block">→</span></button> </Link>
                         <p className="font-bold relative bottom-23 left-5">Computing</p>
                         <p className="relative bottom-23 left-5 text-gray-300">12 products</p>
@@ -22,7 +22,7 @@ function Category() {
                     </span>
 
                         <span className="transition-all duration-300 hover:scale-[1.02]">
-                        <Link to="/mobileCategory"><img className="w-80 h-65 rounded-xl shadow-[0px_0px_20px_#00E5FF] hover:shadow-[0px_0px_50px_#00E5FF] border-3 border-[#2EC4B6]" src="./src/assets/Phone Images/Astria Ultra Phone.png" alt="" />
+                        <Link to="/mobileCategory"><img className="w-80 h-65 rounded-xl shadow-[0px_0px_20px_#00E5FF] hover:shadow-[0px_0px_50px_#00E5FF] border-3 border-[#2EC4B6]" src="/assets/Phone Images/Astria Ultra Phone.png" alt="" />
                          <button className="relative bottom-62 left-53 group text-[#00ffe5] hover:text-[#2EC4B6] font-bold">Shop Now <span className="group-hover:translate-x-2 ml-0.5 transition-transform-duration-900 inline-block">→</span></button></Link>
                         <p className="font-bold relative bottom-22 left-5">Mobile</p>     
                         <p className="relative bottom-22 left-5 text-gray-300">10 products</p>
@@ -30,7 +30,7 @@ function Category() {
                         </span>
 
                         <span className="transition-all duration-300 hover:scale-[1.02]">
-                            <Link to="/audioCategory"><img className="w-80 h-65 rounded-xl relative right-19 shadow-[0px_0px_20px_#00E5FF] hover:shadow-[0px_0px_50px_#00E5FF] border-3 border-[#2EC4B6]" src="./src/assets/Earbuds Images/Echo Buds Earbuds.png" alt="" />
+                            <Link to="/audioCategory"><img className="w-80 h-65 rounded-xl relative right-19 shadow-[0px_0px_20px_#00E5FF] hover:shadow-[0px_0px_50px_#00E5FF] border-3 border-[#2EC4B6]" src="/assets/Earbuds Images/Echo Buds Earbuds.png" alt="" />
                              <button className="relative bottom-62 left-33 group text-[#00ffe5] hover:text-[#2EC4B6] font-bold">Shop Now <span className="group-hover:translate-x-2 ml-0.5 transition-transform-duration-900 inline-block">→</span></button></Link>
                             <p className="font-bold relative bottom-22 right-15">Audio</p> 
                              <p className="relative bottom-22 right-15 text-gray-300">20 products</p>
@@ -39,7 +39,7 @@ function Category() {
                         
                         
                         <span className="relative bottom-28 transition-all duration-300 hover:scale-[1.02]">
-                            <Link to="/gamingCategory"><img className="w-80 h-65 rounded-xl shadow-[0px_0px_20px_#00E5FF] hover:shadow-[0px_0px_50px_#00E5FF] border-3 border-[#2EC4B6]" src="./src/assets/Controller Images/Apex Controller.png" alt="" />
+                            <Link to="/gamingCategory"><img className="w-80 h-65 rounded-xl shadow-[0px_0px_20px_#00E5FF] hover:shadow-[0px_0px_50px_#00E5FF] border-3 border-[#2EC4B6]" src="/assets/Controller Images/Apex Controller.png" alt="" />
                              <button className="relative bottom-62 left-53 group text-[#00ffe5] hover:text-[#2EC4B6] font-bold">Shop Now <span className="group-hover:translate-x-1 ml-0.5 transition-transform-duration-900 inline-block">→</span></button></Link>
                             <p className="font-bold relative bottom-22 left-5">Gaming</p>     
                              <p className=" relative bottom-22 text-gray-300 left-5">17 products</p>
@@ -48,7 +48,7 @@ function Category() {
                         
                         
                         <span className="relative bottom-28 transition-all duration-300 hover:scale-[1.02]">
-                            <Link to="/wearablesCategory"><img className="w-80 h-65 rounded-xl relative right-19 shadow-[0px_0px_20px_#00E5FF] hover:shadow-[0px_0px_50px_#00E5FF] border-3 border-[#2EC4B6]" src="./src/assets/Smart-Watch Images/Nova Watch Pro.png" alt="" />
+                            <Link to="/wearablesCategory"><img className="w-80 h-65 rounded-xl relative right-19 shadow-[0px_0px_20px_#00E5FF] hover:shadow-[0px_0px_50px_#00E5FF] border-3 border-[#2EC4B6]" src="/assets/Smart-Watch Images/Nova Watch Pro.png" alt="" />
                             <button className="relative bottom-62 left-33  text-[#00ffe5] hover:text-[#2EC4B6] group font-bold">Shop Now <span className="group-hover:translate-x-2 ml-0.5 transition-transform-duration-900 inline-block">→</span></button></Link>
                             <p className="font-bold relative bottom-22 right-15">Wearables</p>
                              <p className="relative bottom-22 text-gray-300 right-15">14 products</p> 

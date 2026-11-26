@@ -19,7 +19,7 @@ const [favorites, setFavorites] = useState({});
 
                 <div>
                     
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Earbuds Images/Echo Buds Earbuds.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Earbuds Images/Echo Buds Earbuds.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -65,7 +65,7 @@ const [favorites, setFavorites] = useState({});
                     </span>
                     <p className="text-white mb-4">The Kage Echo Buds are compact, stylish, and deliver impressive sound. They fit comfortably, connect easily, and are perfect for music, calls, and workouts. Really happy with my purchase!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 9.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 9.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">David Igwe</p>
                         <p className="text-gray-400">Ebonyi, Nigeria</p>
@@ -85,7 +85,7 @@ const [favorites, setFavorites] = useState({});
                     </span>
                     <p className="text-white mb-4">The Kage Echo Buds sound great and feel comfortable even after long use. The audio is clear, the bass is impressive, and the compact design makes them perfect for everyday listening. Delivery was quick too!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 8.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 8.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Sarah Mitchell</p>
@@ -106,7 +106,7 @@ const [favorites, setFavorites] = useState({});
                 <span className="flex flex-row gap-19">
                       
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Earbuds Images/Aura Pro Earbuds.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/Aura Pro Earbuds.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("auraPro")}
@@ -131,7 +131,7 @@ const [favorites, setFavorites] = useState({});
 
               
                   <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
-                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="./src/assets/Microphone Images/Voicepod Microphone.png" alt="Speaker" />
+                <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Microphone Images/Voicepod Microphone.png" alt="Speaker" />
                 <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
                         type="button"

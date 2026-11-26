@@ -6,7 +6,7 @@ function EleraPhone() {
 
                 <div>
                      <p className="bg-red-600 w-15 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Phone Images/Elera Max Phone.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Phone Images/Elera Max Phone.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -52,7 +52,7 @@ function EleraPhone() {
                     </span>
                     <p className="text-white mb-4">The Kage Elera Max is sleek, smooth, and easy to use. The display looks great, performance is reliable, and it’s perfect for everyday use. Delivery was quick too, and I’m really happy with my purchase!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 11.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 11.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Destiny Agbo</p>
                         <p className="text-gray-400">Enugu, Nigeria</p>
@@ -72,7 +72,7 @@ function EleraPhone() {
                     </span>
                     <p className="text-white mb-4">The Kage Elera Max looks premium and feels great to use. The performance is smooth, the display is bright and clear, and everything arrived quickly and safely packaged. Very happy with it!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 8.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 8.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Rachel Mitchell</p>
@@ -94,7 +94,7 @@ function EleraPhone() {
                       
                     
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Astria Ultra Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Astria Ultra Phone.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
                     <p className="font-bold relative bottom-6 text-center">Kage Astria Ultra</p>
@@ -111,7 +111,7 @@ function EleraPhone() {
                 </span>
               
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Mira X Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Mira X Phone.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Mira X</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">

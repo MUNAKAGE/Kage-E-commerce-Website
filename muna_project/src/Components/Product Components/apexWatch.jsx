@@ -6,7 +6,7 @@ function ApexWatch() {
 
                 <div>
                      <p className="bg-[#2EC4B6] w-27 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center mb-4">Best Seller</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Smart-Watch Images/Smart Watch.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Smart-Watch Images/Smart Watch.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -52,7 +52,7 @@ function ApexWatch() {
                     </span>
                     <p className="text-white mb-4"> The Kage Apex Watch is a great addition to my daily routine. It's stylish, functional, and the battery life is impressive.</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 9.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 9.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">David Igwe</p>
                         <p className="text-gray-400">Ebonyi, Nigeria</p>
@@ -72,7 +72,7 @@ function ApexWatch() {
                     </span>
                     <p className="text-white mb-4">The Kage Apex Watch has a sleek design and smooth performance. It’s stylish, easy to use, and a great everyday smartwatch for staying connected and tracking your activities.</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 10.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 10.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Adaugo Nduka</p>
@@ -93,7 +93,7 @@ function ApexWatch() {
                     <span className="flex flex-row gap-19">
                       
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Fit-Band Images/ActiveBand.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Fit-Band Images/ActiveBand.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-10%</p>
                     <i class="fa-regular fa-heart text-2xl relative left-57 bottom-73"></i>
                     <p className="relative bottom-6 font-bold text-center">Kage ActiveBand Pro</p>
@@ -110,7 +110,7 @@ function ApexWatch() {
                 </span>
 
                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Watch Images/Pulse Watch.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Watch Images/Pulse Watch.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Pulse Watch</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">

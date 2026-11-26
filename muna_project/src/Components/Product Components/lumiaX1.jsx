@@ -6,7 +6,7 @@ return(
 
                 <div>
                      <p className="bg-[#2EC4B6] w-27 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">Best Seller</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Phone Images/Lumia X1 Phone.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Phone Images/Lumia X1 Phone.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -52,7 +52,7 @@ return(
                     </span>
                     <p className="text-white mb-4">The Kage Lumia X1 offers a sleek design, vibrant display, and smooth performance. It’s a great everyday device for work, entertainment, and staying connected.</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 5.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 5.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Micheal Olujari</p>
                         <p className="text-gray-400">Lagos, Nigeria</p>
@@ -72,7 +72,7 @@ return(
                     </span>
                     <p className="text-white mb-4">I’m really impressed with the Kage Lumia X1. The display looks amazing, it runs smoothly, and the sleek design makes it feel premium. Definitely a great device for everyday use.</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 3.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 3.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Sarah Mitchell</p>
@@ -94,7 +94,7 @@ return(
                     
                     
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Elera Max Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Elera Max Phone.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
                     <p className="font-bold relative bottom-6 text-center">Kage Elera Max</p>
@@ -111,7 +111,7 @@ return(
                 </span>
 
                        <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Phone Images/Astria Ultra Phone.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Astria Ultra Phone.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
                     <p className="font-bold relative bottom-6 text-center">Kage Astria Ultra</p>

@@ -6,7 +6,7 @@ function BeatX() {
 
                 <div>
                      <p className="bg-red-600 w-15 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">-30%</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Headset Images/Headset Image.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Headset Images/Headset Image.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -52,7 +52,7 @@ function BeatX() {
                     </span>
                     <p className="text-white mb-4">The headphones arrived quickly and the sound quality is excellent. I also really like that they come with a warranty, so I feel confident about my purchase.</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 2.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 2.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">John Daniels</p>
                         <p className="text-gray-400">Leicester, England</p>
@@ -72,7 +72,7 @@ function BeatX() {
                     </span>
                     <p className="text-white mb-4">The Kage Beat X delivers clear sound with deep, powerful bass. It’s comfortable to wear, looks stylish, and is perfect for gaming, music, and everyday listening. Great quality for the price!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 4.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 4.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Jack Walcott</p>
@@ -94,7 +94,7 @@ function BeatX() {
                     
                     
                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Microphone Images/Phantom MicroPhone.png" alt="Gaming Mouse"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Microphone Images/Phantom MicroPhone.png" alt="Gaming Mouse"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Phantom Mic</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">
@@ -110,7 +110,7 @@ function BeatX() {
                    </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Keyboard Images/Mechanical Keyboard.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Keyboard Images/Mechanical Keyboard.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
                     <p className="font-bold relative bottom-6 text-center">Kage BattleKeys</p>

@@ -20,7 +20,7 @@ const [favorites, setFavorites] = useState({});
 
                 <div>
                      <p className="bg-green-400 w-14 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Laptop Images/Laptop.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Laptop Images/Laptop.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -66,7 +66,7 @@ const [favorites, setFavorites] = useState({});
                     </span>
                     <p className="text-white mb-4">The Kage Pulse 14 is lightweight, fast, and easy to use. It’s perfect for work and everyday tasks, and the sleek design makes it great for taking on the go. Really happy with my purchase!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 7.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 7.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Kingsley Okonkwo</p>
                         <p className="text-gray-400">Enugu, Nigeria</p>
@@ -86,7 +86,7 @@ const [favorites, setFavorites] = useState({});
                     </span>
                     <p className="text-white mb-4">The Kage Pulse 14 is sleek, responsive, and easy to carry around. It performs smoothly for everyday tasks, and the quick delivery was a nice bonus. Very satisfied with my purchase!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 1 (1).jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 1 (1).jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Christina Brown</p>
@@ -107,7 +107,7 @@ const [favorites, setFavorites] = useState({});
                     <span className="flex flex-row gap-19">
                       
                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Vortex 15 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Vortex 15 Laptop.png"></img>
                     <button
                         type="button"
                         onClick={() => toggleFavorite("vortex15")}
@@ -132,7 +132,7 @@ const [favorites, setFavorites] = useState({});
 
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Core 15 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Core 15 Laptop.png"></img>
                      <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-15%</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
                     <p className="font-bold relative bottom-6 text-center">Kage Core 15</p>

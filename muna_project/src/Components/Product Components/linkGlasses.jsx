@@ -8,7 +8,7 @@ function LinkGlasses() {
 
                 <div>
                      <p className="bg-[#2EC4B6] w-27 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center mb-4">Best Seller</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Smart-Glasses Images/Link SmartGlasses.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Smart-Glasses Images/Link SmartGlasses.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -54,7 +54,7 @@ function LinkGlasses() {
                     </span>
                     <p className="text-white mb-4">The Kage Link Glasses are sleek, comfortable, and easy to use. I love how they blend smart features with a stylish design, and the quick delivery made the whole experience even better. Really happy with my purchase!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 2.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 2.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">John Daniels</p>
                         <p className="text-gray-400">Leicster, England</p>
@@ -74,7 +74,7 @@ function LinkGlasses() {
                     </span>
                     <p className="text-white mb-4">I’m really impressed with the Kage Link Glasses. They look stylish, feel comfortable, and the smart features work smoothly. Delivery was fast, and the warranty was a great bonus. Definitely worth it!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 3.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 3.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Sarah Mitchell</p>
@@ -95,7 +95,7 @@ function LinkGlasses() {
                     <span className="flex flex-row gap-19">
                   
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Glasses Images/Vision Pro SmartGlasses.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Glasses Images/Vision Pro SmartGlasses.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Vision Pro</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">
@@ -111,7 +111,7 @@ function LinkGlasses() {
                 </span>
 
                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Smart-Ring Images/Aura Ring.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Ring Images/Aura Ring.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-25%</p>
                     <i class="fa-regular fa-heart text-2xl relative left-57 bottom-73"></i>
                     <p className="relative bottom-6 font-bold text-center">Kage Aura Ring</p>

@@ -3,7 +3,7 @@ import {  } from "module";
 function Heropage() {
     return (
         <section className="mb-20">
-        <img className="absolute w-screen h-180" src="./src/assets/HeroImage.png" alt="Hero Image"></img>
+        <img className="absolute w-screen h-180" src="/assets/HeroImage.png" alt="Hero Image"></img>
 
         <div className="absolute top-40 left-20 flex flex-row gap-0.5">
 
@@ -32,10 +32,10 @@ function Heropage() {
 
             <div className="absolute top-145 left-21 flex flex-row">
                 
-                <img className="w-12 h-12 rounded-full object-cover border-2 border-[#2EC4B6]" src="./src/assets/Person 1 (1).jpg" alt="Profile Image"></img>
-                <img className="w-12 h-12 rounded-full object-cover border-2 border-[#2EC4B6] relative right-3" src="./src/assets/Person 2.jpg" alt="Profile Image"></img>
-                <img className="w-12 h-12 rounded-full object-cover border-2 border-[#2EC4B6] relative right-5" src="./src/assets/Person 3.jpg" alt="Profile Image"></img>
-                <img className="w-12 h-12 rounded-full object-cover border-2 border-[#2EC4B6] relative right-8" src="./src/assets/Person 4.jpg" alt="Profile Image"></img>
+                <img className="w-12 h-12 rounded-full object-cover border-2 border-[#2EC4B6]" src="/assets/Person 1 (1).jpg" alt="Profile Image"></img>
+                <img className="w-12 h-12 rounded-full object-cover border-2 border-[#2EC4B6] relative right-3" src="/assets/Person 2.jpg" alt="Profile Image"></img>
+                <img className="w-12 h-12 rounded-full object-cover border-2 border-[#2EC4B6] relative right-5" src="/assets/Person 3.jpg" alt="Profile Image"></img>
+                <img className="w-12 h-12 rounded-full object-cover border-2 border-[#2EC4B6] relative right-8" src="/assets/Person 4.jpg" alt="Profile Image"></img>
                 
                 <span className="h-11 w-1 bg-[#2EC4B6] relative top-0.5 right-3"></span>
 

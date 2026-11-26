@@ -6,7 +6,7 @@ function ApexLaptop() {
 
                 <div>
                      <p className="bg-green-400 w-14 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
-                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="./src/assets/Laptop Images/Apex 16 Laptop.png" alt="" />
+                    <img className="h-160 w-135 ml-20 rounded-3xl shadow-[0px_0px_20px_#2EC4B6]" src="/assets/Laptop Images/Apex 16 Laptop.png" alt="" />
                 </div>
 
                 <div className="flex flex-col text-white relative left-20 top-20">
@@ -52,7 +52,7 @@ function ApexLaptop() {
                     </span>
                     <p className="text-white mb-4">The Kage Apex 16 has been great so far. It runs smoothly, looks sleek, and handles gaming and everyday tasks with ease. It arrived quickly and was well packaged too!</p>
                     <span className="flex flex-row">
-                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 5.jpg " alt="Profile Image"></img>
+                        <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 5.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Micheal Olujari</p>
                         <p className="text-gray-400">Lagos, Nigeria</p>
@@ -72,7 +72,7 @@ function ApexLaptop() {
                     </span>
                     <p className="text-white mb-4">The Kage Apex 16 is fast, stylish, and delivers a smooth overall experience. The display looks great, performance is reliable, and the quick delivery was an added bonus. Very happy with my purchase!</p>
                     <span className="flex flex-row">
-                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="./src/assets/Person 3.jpg" alt="Profile Image"></img>
+                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 3.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
                         <p className="text-white">Sarah Mitchell</p>
@@ -93,7 +93,7 @@ function ApexLaptop() {
                     <span className="flex flex-row gap-19">
                       
                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Laptop.png"></img>
                     <p className="bg-green-400 w-14 relative bottom-67  ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
                     <p className="font-bold relative bottom-6 text-center">Kage Pulse 14</p>
@@ -110,7 +110,7 @@ function ApexLaptop() {
                 </span>
 
                      <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
-                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="./src/assets/Laptop Images/Phantom 16 Laptop.png"></img>
+                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Phantom 16 Laptop.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Phantom 16</p>
                     <span className="relative top-2 flex flex-row justify-center text-[#2EC4B6] mb-1">

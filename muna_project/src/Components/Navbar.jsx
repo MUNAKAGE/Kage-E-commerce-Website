@@ -29,7 +29,7 @@ function Navbar() {
             <div className="mx-auto flex w-full max-w-[1600px] items-center justify-center px-6 py-4 text-white">
                 <span className="mr-auto pl-4">
                     <Link to="/">
-                        <img className="h-10 w-30 object-contain" src="./src/assets/Logo.png" alt="Logo" />
+                        <img className="h-10 w-30 object-contain" src="/assets/Logo.png" alt="Logo" />
                     </Link>
                 </span>
 
