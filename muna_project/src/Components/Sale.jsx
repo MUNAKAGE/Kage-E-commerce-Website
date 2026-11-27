@@ -13,7 +13,7 @@ function Sale () {
         };  
 
 return(
-    <section>
+    <section className="home-sale">
         <div className=" w-full relative top-480">
 
         <div className="absolute left-15 bg-gray-400 h-px w-350" ></div>
@@ -32,7 +32,7 @@ return(
 
             <span className="flex flex-row gap-x-15 justify-center text-white Hero-text mt-18">
                 
-                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                 <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <Link to="/eleraphone"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Elera Max Phone.png"></img></Link>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                     <button
@@ -57,7 +57,7 @@ return(
                      <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-             <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+             <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <Link to="/strikepad"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Keyboard Images/Keyboard.png"></img></Link>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                      <button
@@ -82,7 +82,7 @@ return(
                      <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                    <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                    <Link to="/corelaptop"> <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Core 15 Laptop.png"></img></Link>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-15%</p>
                       <button
@@ -109,7 +109,7 @@ return(
 
 
 
-                    <span className="border-4 border-[#2EC4B6] w-70 rounded-lg">
+                    <span className="product-card border-4 border-[#2EC4B6] w-70 rounded-lg">
                         <Link to="/beatx"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headset Images/Headset Image.png" alt="Headset"></img></Link>
                         <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-30%</p>
                         <button

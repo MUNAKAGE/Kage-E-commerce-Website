@@ -1,7 +1,7 @@
 function Passion() {
     return(
         <section> 
-            <div className="bg-black relative bottom-45 flex flex-row h-120"> 
+            <div className="about-passion bg-black relative bottom-45 flex flex-row h-120">
                 <span className="flex flex-col gap-6 ml-20 relative left-10 top-60"> 
                     <p className="text-3xl font-bold text-white">Technology Made for you</p> 
                     <p className="text-gray-400 font-size4">What started with a passion for technology has grown into a place where you can <br/> discover quality devices and accessories for everyday life. From essential gadgets to <br/> products that enhance your work, entertainment, and lifestyle, we’re here to make <br/> finding the right tech simple.</p> 

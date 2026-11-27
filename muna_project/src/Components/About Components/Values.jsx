@@ -1,7 +1,7 @@
 function Values() {
     return(
             <section>
-                <div className="bg-[#1a1a23] text-white relative top-50">
+                <div className="about-values bg-[#1a1a23] text-white relative top-50">
                     <p className="text-center font-bold text-3xl mb-3 pt-20">Our Values</p>
                     <p className="text-center text-gray-400 text-xl">The principles that guide everything we do</p>
 

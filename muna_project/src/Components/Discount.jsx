@@ -1,6 +1,6 @@
 function Discount() {
     return(
-        <section className="relative top-550" style={{background: `radial-gradient(circle at 95% 80%, rgba(46,196,182,0.25), transparent 100%), #000000`}}>
+        <section className="home-discount relative top-550" style={{background: `radial-gradient(circle at 95% 80%, rgba(46,196,182,0.25), transparent 100%), #000000`}}>
             <div className=" relative backdrop-blur-3xl h-180 ">
                 <div className="flex flex-row text-white pt-40 ml-22 ">
 

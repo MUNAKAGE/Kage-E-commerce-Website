@@ -1,8 +1,8 @@
 function Boom360() {
     return(
           <section>
-            <div className=" text-white bg-[#1a1a23] min-h-screen pt-30"  >
-                <div className="flex flex-row">
+            <div className=" text-white product-detail bg-[#1a1a23] min-h-screen pt-30"  >
+                <div className="product-overview flex flex-row">
 
                 <div>
                      <p className="bg-green-400 w-14 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
@@ -40,7 +40,7 @@ function Boom360() {
                 <div >
                     <p className="mt-30 ml-20 text-3xl font-bold">Customer Reviews</p>
 
-                    <span className="flex flex-row gap-10 mt-8 ml-20 pb-6">
+                    <span className="product-review-list flex flex-row gap-10 mt-8 ml-20 pb-6">
 
                     <span className="bg-gray-900 rounded-xl px-4 py-3 w-110 h-55 "> 
                     <span className="text-[#ffd504] flex flex-row gap-0.5 mb-3 mt-1.5">
@@ -51,7 +51,7 @@ function Boom360() {
                         <i class="fa-solid fa-star"></i>
                     </span>
                     <p className="text-white mb-4">The Kage Boom 360 sounds amazing! The bass is powerful, the audio is clear, and it fills the room perfectly. It arrived quickly and was well packaged. Definitely happy with my purchase!</p>
-                    <span className="flex flex-row">
+                    <span className="product-overview flex flex-row">
                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 6.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Daniel Okafor</p>
@@ -71,7 +71,7 @@ function Boom360() {
                         <i class="fa-solid fa-star"></i>
                     </span>
                     <p className="text-white mb-4">The Kage Boom 360 delivers impressive sound with deep bass and clear audio. It’s stylish, easy to use, and perfect for music at home or on the go. Great value for the quality!</p>
-                    <span className="flex flex-row">
+                    <span className="product-overview flex flex-row">
                          <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 8.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
@@ -90,9 +90,9 @@ function Boom360() {
                 <div className="mt-10 pl-20 bg-black w-full ">
                     <p className=" text-3xl font-bold mb-9 pt-9"> You May Also Like</p>
 
-                    <span className="flex flex-row gap-19">
+                    <span className="product-related-list flex flex-row gap-19">
                       
-                     <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
+                     <span className=" product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
                 <img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/DeepBass X Speaker.png" alt="Speaker" />
                 <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
@@ -109,7 +109,7 @@ function Boom360() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-3 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
+                     <span className= "product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headphone Images/Sonic Pro Headphones.png"></img>
                     <i class="fa-regular fa-heart relative left-57 bottom-66 text-2xl"></i>
                     <p className="font-bold relative text-center">Kage Sonic Pro</p>

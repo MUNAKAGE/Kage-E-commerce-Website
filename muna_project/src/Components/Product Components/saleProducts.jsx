@@ -23,7 +23,7 @@ function SaleProducts() {
 
            <span className="grid grid-cols-4 justify-center ml-18 gap-y-10 mt-20 text-white Hero-text">
 
-               <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+               <span className= "product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Core 15 Laptop.png"></img>
                      <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-15%</p>
                     <button
@@ -49,7 +49,7 @@ function SaleProducts() {
                 </span>
 
                 
-                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                   <span className= "product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Elera Max Phone.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                      <button
@@ -74,7 +74,7 @@ function SaleProducts() {
                      <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
+                <span className= "product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg h-121">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Earbuds Images/Earbuds.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                      <button
@@ -99,7 +99,7 @@ function SaleProducts() {
                      <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                     <span className= "product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Fit-Band Images/ActiveBand.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-10%</p>
                     <button
@@ -125,7 +125,7 @@ function SaleProducts() {
                 </span>
 
 
-                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                  <span className= "product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                    <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Mouse Images/Mouse.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-15%</p>
                      <button
@@ -150,7 +150,7 @@ function SaleProducts() {
                      <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                     </span>
 
-                     <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                     <span className= "product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Smart-Ring Images/Aura Ring.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-25%</p>
                     <button
@@ -175,7 +175,7 @@ function SaleProducts() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-3 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
                  
-                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                  <span className= "product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Keyboard Images/Keyboard.png"></img>
                     <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                     <button

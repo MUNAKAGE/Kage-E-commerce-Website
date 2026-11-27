@@ -24,7 +24,7 @@ function PhoneCategory() {
                 <span className="grid grid-cols-4 justify-center ml-15 gap-y-10 mt-20 text-white Hero-text">
                     
                     
-                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                    <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <Link to="/zenraphone"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Zenra Ultra Phone.png"></img></Link>
                     <button
                             type="button"
@@ -48,7 +48,7 @@ function PhoneCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 top-6 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
                   
-                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                 <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Halo 5g Phone.png"></img>
                      <button
                         type="button"
@@ -72,7 +72,7 @@ function PhoneCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 top-6 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                 <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Mira X Phone.png"></img>
                      <button
                         type="button"
@@ -96,7 +96,7 @@ function PhoneCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 top-6 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                   <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Lumia X1 Phone.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
@@ -122,7 +122,7 @@ function PhoneCategory() {
                 </span>
 
                   
-                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                    <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Phone.png"></img>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center " >New</p>
                     <button
@@ -147,7 +147,7 @@ function PhoneCategory() {
                      <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                 <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Solis Pro Phone.png"></img>
                     <button
                         type="button"
@@ -171,7 +171,7 @@ function PhoneCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 top-6 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                   <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                   <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Elera Max Phone.png"></img>
                    <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-20%</p>
                    <button
@@ -196,7 +196,7 @@ function PhoneCategory() {
                      <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                 <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Aero Max Phone.png"></img>
                     <button
                         type="button"
@@ -221,7 +221,7 @@ function PhoneCategory() {
                 </span>
 
                  
-                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                    <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Astria Ultra Phone.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
@@ -246,7 +246,7 @@ function PhoneCategory() {
                      <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Nova Pro Phone.png"></img>
                     <button
                         type="button"

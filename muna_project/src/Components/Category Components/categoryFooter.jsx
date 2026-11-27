@@ -1,7 +1,7 @@
 function CategoryFooter() {
     return(
 
-        <section>
+        <section className="site-footer">
 
         <div className="relative text-white">
                 <div className=" bg-gray-400 h-px w-full" ></div>

@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 function Form() {
 
     
@@ -11,8 +9,8 @@ function Form() {
 
     return(
 <section>
-    <div className = "bg-[#1a1a23] min-h-screen flex items-center justify-center">
-        <form className="flex flex-col text-white relative top-10 bg-black px-5 rounded-xl shadow-[0px_0px_25px_#00E5FF]">
+    <div className = "auth-form-page bg-[#1a1a23] min-h-screen flex items-center justify-center">
+        <form className="auth-form flex flex-col text-white relative top-10 bg-black px-5 rounded-xl shadow-[0px_0px_25px_#00E5FF]">
 
             
             <span className="text-center mb-8"> 

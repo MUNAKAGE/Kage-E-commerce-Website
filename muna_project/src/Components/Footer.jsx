@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 
 function Footer() {
     return(
-        <section>
+        <section className="site-footer">
             <div className="relative top-590 text-white">
                 <div className=" bg-gray-400 h-px w-full" ></div>
 

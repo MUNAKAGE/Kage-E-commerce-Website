@@ -1,7 +1,7 @@
 function Team() {
     return(
     <section>
-        <div className="relative top-60">
+        <div className="about-team relative top-60">
             <span className="flex flex-col gap-2">
                 <p className="font-bold text-3xl text-white text-center">Meet Our Team</p>
                 <p className="text-gray-400 text-center text-xl">The Passionate people behind KAGE</p>

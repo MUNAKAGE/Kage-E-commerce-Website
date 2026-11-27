@@ -24,7 +24,7 @@ function LaptopCategory() {
 
                 <span className="grid grid-cols-4 justify-center ml-18 gap-y-10 mt-20 text-white Hero-text">
                     
-                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                 <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <Link to="/pulse14"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Laptop.png"></img></Link>
                     <p className="bg-green-400 w-14 relative bottom-67  ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
@@ -49,7 +49,7 @@ function LaptopCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                 <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Nova 15 Laptop.png"></img>
                      <button
                         type="button"
@@ -73,7 +73,7 @@ function LaptopCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 top-6 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Phantom 16 Laptop.png"></img>
                     <button
                         type="button"
@@ -97,7 +97,7 @@ function LaptopCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 top-6 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
                  
-                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                 <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Vortex 15 Laptop.png"></img>
                     <button
                         type="button"
@@ -122,7 +122,7 @@ function LaptopCategory() {
                 </span>
 
                 
-                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                    <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Titan 17 Laptop.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button
@@ -147,7 +147,7 @@ function LaptopCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Edge 15 Laptop.png"></img>
                      <button
                         type="button"
@@ -171,7 +171,7 @@ function LaptopCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 top-6 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                 <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                 <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Apex 16 Laptop.png"></img>
                     <p className="bg-green-400 w-14 relative bottom-67  ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                      <button
@@ -197,7 +197,7 @@ function LaptopCategory() {
                 </span>
 
 
-                <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Flux 14 Laptop.png"></img>
                     <button
                         type="button"
@@ -221,7 +221,7 @@ function LaptopCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 top-6 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Spectra 15 Laptop.png"></img>
                      <button
                         type="button"
@@ -245,7 +245,7 @@ function LaptopCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 top-6 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                    <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Core 15 Laptop.png"></img>
                      <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-15%</p>
                      <button
@@ -270,7 +270,7 @@ function LaptopCategory() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Zenith 16 Laptop.png"></img>
                     <button
                         type="button"
@@ -295,7 +295,7 @@ function LaptopCategory() {
                 </span>
 
                
-                    <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                    <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Eclipse 17 Laptop.png"></img>
                     <p className="bg-[#2EC4B6] w-27 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">Best Seller</p>
                     <button

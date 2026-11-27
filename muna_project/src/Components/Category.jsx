@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Category() {
     return(
-        <section>
+        <section className="home-category">
             <div className="relative top-470">
 
                   <span className="absolute left-15 bg-gray-400 h-px w-350" ></span>

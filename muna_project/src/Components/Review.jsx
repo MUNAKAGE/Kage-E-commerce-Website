@@ -1,6 +1,6 @@
 function Review () {
     return(
-        <section>
+        <section className="home-reviews">
             <div className="relative top-510">
                  <div className="absolute left-15 bg-gray-400 h-px w-350" ></div>
 
@@ -9,7 +9,7 @@ function Review () {
                     <p className="text-gray-400 text-lg">Join our Hundreds of satisfied customers who love shopping with us</p>
                  </span>
 
-                 <div className="flex flex-row justify-center mt-28 gap-30 Hero-text">
+                 <div className="home-review-cards flex flex-row justify-center mt-28 gap-30 Hero-text">
 
                     <span className="bg-gray-900 rounded-xl px-4 py-3 w-145 h-55 relative left-15 "> 
 

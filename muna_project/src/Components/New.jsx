@@ -15,7 +15,7 @@ function New() {
     
 
     return(
-<section>
+<section className="home-new">
 
     
     <div className="relative top-450 ">
@@ -37,7 +37,7 @@ function New() {
     <span className="flex flex-row justify-center ml-5 gap-x-15 mt-22 text-white Hero-text">
 
 
-                  <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                  <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <Link to="/apexlaptop"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Apex 16 Laptop.png"></img></Link>
                     <p className="bg-green-400 w-14 relative bottom-67  ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <button
@@ -62,7 +62,7 @@ function New() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                    <Link to="/ariaphone"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Phone Images/Phone.png"></img></Link>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center " >New</p>
                      <button
@@ -87,7 +87,7 @@ function New() {
                      <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                <span className= "product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                    <Link to="/motionband"><img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Fit-Band Images/MotionBand.png"></img></Link>
                     <p className="bg-green-400 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5  text-center">New</p>
                      <button
@@ -112,7 +112,7 @@ function New() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-3 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                <span className=" border-4 border-[#2EC4B6] w-70 rounded-lg">
+                <span className=" product-card border-4 border-[#2EC4B6] w-70 rounded-lg">
                 <Link to="/boom360"><img className="h-70 w-70 object-cover border-[#2EC4B6] hover:scale-101 transition-transform duration-300" src="/assets/Speaker Images/Boom 360 Speaker.png" alt="Speaker" /></Link>
                 <p className="bg-green-400 w-14 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                    <button

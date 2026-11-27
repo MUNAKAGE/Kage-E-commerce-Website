@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 import {  } from "module";
 function Heropage() {
     return (
-        <section className="mb-20">
+        <section className="home-hero mb-20">
         <img className="absolute w-screen h-180" src="/assets/HeroImage.png" alt="Hero Image"></img>
 
         <div className="absolute top-40 left-20 flex flex-row gap-0.5">

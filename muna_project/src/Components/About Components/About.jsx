@@ -1,7 +1,7 @@
 function About() {
     return(
         <section>
-            <div className="bg-[#1a1a23] min-h-screen">
+            <div className="about-intro bg-[#1a1a23] min-h-screen">
                 <span className="flex flex-col items-center gap-y-6 relative top-10 mt-15">
                 <p className="bg-[#68cdc349] text-[#12dac6] rounded-full px-3 py-1 mt-8 border border-[#2EC4B6] backdrop-blur-lg ">Our Story </p>
                 <p className="text-white font-bold text-5xl">Technology That Fits Your Lifestyle</p>

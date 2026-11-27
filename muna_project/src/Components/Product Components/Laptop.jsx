@@ -1,8 +1,8 @@
 function Laptop() {
     return(
          <section>
-            <div className=" text-white bg-[#1a1a23] min-h-screen pt-10"  >
-                <div className="flex flex-row">
+            <div className=" text-white product-detail bg-[#1a1a23] min-h-screen pt-10"  >
+                <div className="product-overview flex flex-row">
 
                 <div>
                      <p className="bg-green-400 w-14 relative top-15 left-22 ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
@@ -40,7 +40,7 @@ function Laptop() {
                 <div >
                     <p className="mt-30 ml-20 text-3xl font-bold">Customer Reviews</p>
 
-                    <span className="flex flex-row gap-10 mt-8 ml-20 pb-6">
+                    <span className="product-review-list flex flex-row gap-10 mt-8 ml-20 pb-6">
 
                     <span className="bg-gray-900 rounded-xl px-4 py-3 w-110 h-55 "> 
                     <span className="text-[#ffd504] flex flex-row gap-0.5 mb-3 mt-1.5">
@@ -51,7 +51,7 @@ function Laptop() {
                         <i class="fa-solid fa-star"></i>
                     </span>
                     <p className="text-white mb-4">The headphones arrived quickly and the sound quality is excellent. I also really like that they come with a warranty, so I feel confident about my purchase.</p>
-                    <span className="flex flex-row">
+                    <span className="product-overview flex flex-row">
                         <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 6.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         <p className="text-white">Daniel Okafor</p>
@@ -71,7 +71,7 @@ function Laptop() {
                         <i class="fa-solid fa-star"></i>
                     </span>
                     <p className="text-white mb-4">Bought a wireless keyboard and mouse from here and I'm really impressed with the quality. Everything works perfectly and delivery was quick.</p>
-                    <span className="flex flex-row">
+                    <span className="product-overview flex flex-row">
                          <img className="w-12 h-12 rounded-full object-cover border-2 border-gray-400" src="/assets/Person 3.jpg" alt="Profile Image"></img>
                         <span className="flex flex-col ml-3">
                         
@@ -90,9 +90,9 @@ function Laptop() {
                 <div className="mt-10 pl-20 bg-black w-full ">
                     <p className=" text-3xl font-bold mb-9 pt-9"> You May Also Like</p>
 
-                    <span className="flex flex-row gap-19">
+                    <span className="product-related-list flex flex-row gap-19">
                       
-                        <span className= "border-4 border-[#2EC4B6] w-70 rounded-lg ">
+                        <span className= "product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg ">
                     <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Laptop Images/Laptop.png"></img>
                     <p className="bg-green-400 w-14 relative bottom-67  ml-2 rounded-lg px-3 py-0.5 text-center">New</p>
                     <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
@@ -109,7 +109,7 @@ function Laptop() {
                     <button className=" bg-black border-2 border-[#2EC4B6] text-[#2EC4B6] rounded-2xl text-center relative left-15 bottom-1 p-2 w-40 mb-2 hover:shadow-[0_0_20px_#2EC4B6] transition-colors"><span><i class="fa-solid fa-cart-shopping mr-1"></i></span>Add to cart</button>
                 </span>
 
-                 <span className="border-4 border-[#2EC4B6] w-70 rounded-lg">
+                 <span className="product-card product-card border-4 border-[#2EC4B6] w-70 rounded-lg">
                         <img className="h-70 w-70 hover:scale-101 transition-transform duration-300" src="/assets/Headset Images/Headset Image.png" alt="Headset"></img>
                          <p className="bg-red-600 w-15 relative bottom-67 ml-2 rounded-lg px-3 py-0.5 text-center">-30%</p>
                         <i class="fa-regular fa-heart relative left-57 bottom-73 text-2xl"></i>
